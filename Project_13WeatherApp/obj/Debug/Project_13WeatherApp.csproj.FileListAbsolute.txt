@@ -1,0 +1,13 @@
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\bin\Debug\Project_13WeatherApp.exe.config
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\bin\Debug\Project_13WeatherApp.exe
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\bin\Debug\Project_13WeatherApp.pdb
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\obj\Debug\Project_13WeatherApp.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\obj\Debug\Project_13WeatherApp.Form1.resources
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\obj\Debug\Project_13WeatherApp.Properties.Resources.resources
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\obj\Debug\Project_13WeatherApp.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\obj\Debug\Project_13WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\obj\Debug\Project_13WeatherApp.exe
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\obj\Debug\Project_13WeatherApp.pdb
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emir\Desktop\20Project\Project2_EntityFrameworkDbFirstProduct\Project_13WeatherApp\obj\Debug\Project_.236C755A.Up2Date
